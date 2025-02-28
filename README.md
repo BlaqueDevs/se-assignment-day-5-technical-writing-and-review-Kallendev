@@ -108,8 +108,8 @@ A README introduction should be clear and informative, including:
 
 Example:  
 
-> Welcome to TaskMaster! 
-> TaskMaster is a simple task management tool that helps you organize your to-do lists. It supports reminders, priority levels, and team collaboration.  
+    Welcome to TaskMaster! 
+    TaskMaster is a simple task management tool that helps you organize your to-do lists. It supports reminders, priority levels, and team collaboration.  
 
 ## 12. How can you succinctly convey the purpose and key features of a product?  
 
@@ -122,9 +122,9 @@ To keep it concise:
 
 Example:  
 
-> - TaskMaster: Your Simple To-Do List App  
-> - Set tasks and deadlines easily.  
-> - Get reminders and notifications.  
-> - Collaborate with teammates in real-time.  
+ - TaskMaster: Your Simple To-Do List App  
+ - Set tasks and deadlines easily.  
+ - Get reminders and notifications.  
+ - Collaborate with teammates in real-time.  
 
 This format delivers essential information quickly while maintaining clarity.
